@@ -1,9 +1,1 @@
-"this is a readme file" 
-"this is a readme file" 
-"this is a readme file" 
-"this is a readme file" 
-"this is a readme file" 
-"this is a readme file" 
-"this is a readme file" 
-"this is a readme file" 
-"this is a readme file" 
+<h1> Indian - Stock - Prediction </h1>
