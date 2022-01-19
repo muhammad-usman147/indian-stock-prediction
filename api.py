@@ -4,18 +4,8 @@ import pandas as pd
 import pickle
 from flask import Flask , request, jsonify
 '''
-parameters required:
-open 
-high
-low
-close
-VWAP
-Volume
-Date_from
-Date_to
 
-note:date range should be 30
-and every data should contain 30 values
+
 sample input
 {"Open_mean_lag3": 1129.13330078125,
  "Open_mean_lag7": 1114.1785888671875,
